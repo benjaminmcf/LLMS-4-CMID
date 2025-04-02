@@ -1,0 +1,5 @@
+*venv 
+*.env
+test.ipynb
+therapeutic_rag/vector_db/
+__pycache__
